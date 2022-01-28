@@ -1,5 +1,5 @@
-## DSA TOPICS
-Arrays - Almost Done
+## DSA TOPICS  
+Arrays - Almost Done  
 String
 Linked List
 Stack and Queue
