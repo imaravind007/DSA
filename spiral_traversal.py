@@ -22,8 +22,7 @@ def spiral(m, start_r, start_c, end_r, end_c):
 
 matrix = [[1, 2, 3, 4],
           [5, 6, 7, 8],
-          [9, 10, 11, 12],
-          [13, 14, 15, 16]]
+        ]
 
 print(spiral(matrix, 0, 0, len(matrix), len(matrix[0])))
 
