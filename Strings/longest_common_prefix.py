@@ -1,5 +1,5 @@
 def commonPrefixUtil(str1, str2):
-    result = ""
+    result = ''
     n1 = len(str1)
     n2 = len(str2)
 
@@ -27,6 +27,6 @@ def commonPrefix(arr):
     return (prefix)
 
 
-test_input = ['geeksforgeeks', 'geeks', 'geek', 'geezer']
+test_input = ['geeksforgeeks', 'geek', 'geeks', 'geezer']
 
 print(commonPrefix(test_input))
