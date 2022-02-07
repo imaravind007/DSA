@@ -18,10 +18,6 @@ def first_maximum_repeating_element(arr):
 
   return max_count
 
-
-    
- 
-
 arr = [4,4,4,4,1,1,1,1,0,0,0,0,0,0,0]
 output = first_maximum_repeating_element(arr)
 print(output)
