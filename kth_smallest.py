@@ -1,8 +1,1 @@
 
-def
-
-
-
-
-
-print('sdfas')
